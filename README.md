@@ -1,4 +1,10 @@
-### Hi there 👋
+# Leandro Cardoso ✔
+
+<div>
+  <a href="https://github.com/Leandro-Cardoso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Cardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!--
 **Leandro-Cardoso/Leandro-Cardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

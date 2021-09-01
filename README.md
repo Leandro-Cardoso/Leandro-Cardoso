@@ -1,9 +1,13 @@
 # Leandro Cardoso ✔
 
-<div>
+<div align="center">
   <a href="https://github.com/Leandro-Cardoso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Cardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Cardoso&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=LeandroCardoso&theme=chartreuse-dark"/>
 </div>
 
 <!--

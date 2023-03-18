@@ -1,4 +1,4 @@
-# Leandro Cardoso
+<h1 style="text-align: center; background-color: #161b22; font-weight: bolder">Leandro Cardoso</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/leandro-cardoso-992529266">
     <img src="./svg/social/linkedin.svg" width="90"/>
@@ -23,7 +23,7 @@
 </div>
 &nbsp;
 
-## Languages:
+## Technologies:
 <table align="center">
   <tr>
     <td width="100px">

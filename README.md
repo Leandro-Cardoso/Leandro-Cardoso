@@ -1,11 +1,15 @@
-# Leandro Cardoso ✔
+# Leandro Cardoso
 <div align="center">
   <a href="https://www.linkedin.com/in/leandro-cardoso-992529266">
-  <img alt="LinkedIn" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/leandrocardosodev">
-  <img alt="Instagram" height="30" width="100" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/channel/UCtbBdlytJ5b8KUogQo7rfXw">
-  <img alt="YouTube" height="30" width="100" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+    <img src="./svg/social/linkedin.svg" width="90"/>
+  </a>
+  &emsp;<a href="https://www.instagram.com/leandrocardosodev">
+    <img src="./svg/social/instagram.svg" width="70"/>
+    <img src="./svg/social/instagram_logo.svg" width="30"/>
+  </a>
+  &emsp;<a href="https://www.youtube.com/channel/UCtbBdlytJ5b8KUogQo7rfXw">
+    <img src="./svg/social/youtube.svg" width="65"/>
+  </a>
 </div>
 &nbsp;
 
@@ -21,7 +25,7 @@
 
 ## Languages:
 &nbsp;
-<table width="100%">
+<table align="center">
   <tr>
     <td width="100px">
       &emsp;<b>Base:</b>

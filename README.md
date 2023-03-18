@@ -11,7 +11,7 @@
 
 ## Stats:
 &nbsp;
-**Current status:** > Working on my portfolio.
+**> Working on my portfolio.**
 <div align="center">
   <a href = "https://github.com/Leandro-Cardoso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Cardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -21,25 +21,44 @@
 
 ## Languages:
 &nbsp;
-<div style="display: inline_block">
-  <p>&emsp;Base: 
-    <img src="./svg/python.svg" style="vertical-align: middle" width="30"/>
-    <img src="./svg/django.svg" style="vertical-align: middle" width="30"/>
-    <img src="./svg/flask.svg" style="vertical-align: middle" width="30"/>
-    <img src="./svg/csharp.svg" style="vertical-align: middle" width="30"/>
-  </p>
-  <p>&emsp;Web:
-    <img src="./svg/javascript.svg" style="vertical-align: middle" width="30"/>
-    <img src="./svg/react.svg" style="vertical-align: middle" width="30"/>
-    <img src="./svg/html.svg" style="vertical-align: middle" width="30"/>
-    <img src="./svg/css.svg" style="vertical-align: middle" width="30"/>
-  </p>
-  <p>&emsp;More: 
-    <img src="./svg/git.svg" style="vertical-align: middle" width="30"/>
-    <img src="./svg/sql.svg" style="vertical-align: middle" width="30"/>
-  </p>
-  <p>
-    &emsp;Learning:
-    <img src="./svg/docker.svg" style="vertical-align: middle" width="30"/>
-  </p>
-</div>
+<table width="100%">
+  <tr>
+    <td width="100px">
+      &emsp;<b>Base:</b>
+    </td>
+    <td>
+      <img src="./svg/python.svg" width="30"/>
+      <img src="./svg/django.svg" width="30"/>
+      <img src="./svg/flask.svg" width="30"/>
+      <img src="./svg/csharp.svg" width="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      &emsp;<b>Web:</b>
+    </td>
+    <td>
+      <img src="./svg/javascript.svg" width="30"/>
+      <img src="./svg/react.svg" width="30"/>
+      <img src="./svg/html.svg" width="30"/>
+      <img src="./svg/css.svg" width="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      &emsp;<b>More:</b>
+    </td>
+    <td>
+      <img src="./svg/git.svg" width="30"/>
+      <img src="./svg/sql.svg" width="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      &emsp;<b>Learning:</b>
+    </td>
+    <td>
+      <img src="./svg/docker.svg" width="30"/>
+    </td>
+  </tr>
+</table>

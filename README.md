@@ -14,7 +14,9 @@
 &nbsp;
 
 ## Stats:
-**> Working on my portfolio.**
+> Working on my portfolio.
+
+> Open to work
 <div align="center">
   <a href = "https://github.com/Leandro-Cardoso">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Cardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFF&bg_color=161b22&border_color=161b22&title_color=c9d1d9"/>

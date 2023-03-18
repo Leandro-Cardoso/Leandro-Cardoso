@@ -1,4 +1,3 @@
-<font color="#FFF">
 # Leandro Cardoso
 <div align="center">
   <a href="https://www.linkedin.com/in/leandro-cardoso-992529266">
@@ -18,8 +17,8 @@
 **> Working on my portfolio.**
 <div align="center">
   <a href = "https://github.com/Leandro-Cardoso">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Cardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFF&bg_color=161b22&border_color=161b22"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&layout=compact&langs_count=7&theme=dark&bg_color=161b22&border_color=161b22"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Cardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFF&bg_color=161b22&border_color=161b22&title_color=c9d1d9"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&layout=compact&langs_count=7&theme=dark&bg_color=161b22&border_color=161b22&title_color=c9d1d9"/>
   </a>
 </div>
 &nbsp;
@@ -66,4 +65,3 @@
     </td>
   </tr>
 </table>
-</font>

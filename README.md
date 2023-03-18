@@ -1,13 +1,14 @@
+<font color="#FFF">
 # Leandro Cardoso
 <div align="center">
-  <a href="https://www.linkedin.com/in/leandro-cardoso-992529266" style="text-decoration: none">
+  <a href="https://www.linkedin.com/in/leandro-cardoso-992529266">
     <img src="./svg/social/linkedin.svg" width="90"/>
   </a>
-  &emsp;<a href="https://www.instagram.com/leandrocardosodev" style="text-decoration: none">
+  &emsp;<a href="https://www.instagram.com/leandrocardosodev">
     <img src="./svg/social/instagram.svg" width="70"/>
     <img src="./svg/social/instagram_logo.svg" width="30"/>
   </a>
-  &emsp;<a href="https://www.youtube.com/channel/UCtbBdlytJ5b8KUogQo7rfXw" style="text-decoration: none">
+  &emsp;<a href="https://www.youtube.com/channel/UCtbBdlytJ5b8KUogQo7rfXw">
     <img src="./svg/social/youtube.svg" width="65"/>
   </a>
 </div>
@@ -17,8 +18,9 @@
 **> Working on my portfolio.**
 <div align="center">
   <a href = "https://github.com/Leandro-Cardoso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Cardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Cardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFF&bg_color=161b22&border_color=161b22"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&layout=compact&langs_count=7&theme=dark&bg_color=161b22&border_color=161b22"/>
+  </a>
 </div>
 &nbsp;
 
@@ -64,3 +66,4 @@
     </td>
   </tr>
 </table>
+</font>

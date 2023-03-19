@@ -14,14 +14,17 @@
 &nbsp;
 
 ## Stats:
-> Working on my portfolio.
-
-> Open to work
+<font color="#ff0">
+  <img src="./svg/arrow_y.svg" width="10px" style="fill: #ff0"/> 
+  Working on my portfolio
+</font>
+<br>
+<font color="#0f0">
+  <img src="./svg/arrow.svg" width="10px"/> 
+  Open to work
+</font>
 <div align="center">
-  <a href = "https://github.com/Leandro-Cardoso">
-    <img src="https://github-readme-stats.vercel.app/api?username=Leandro-Cardoso&hide_title=true&card_width=300&show_icons=true&include_all_commits=true&count_private=true&text_bold=false&ring_color=0f0&text_color=c9d1d9&icon_color=0f0&bg_color=0d1117&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Cardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFF&bg_color=161b22&border_color=161b22&title_color=c9d1d9"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Leandro-Cardoso&hide_title=true&card_width=300&show_icons=true&include_all_commits=true&count_private=true&text_bold=false&ring_color=0f0&text_color=c9d1d9&icon_color=0f0&bg_color=0d1117&hide_border=true" width="300"/>
 </div>
 &nbsp;
 
@@ -68,5 +71,5 @@
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&custom_title=Top%20used%20technologies&langs_count=10&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&custom_title=Top%20used%20technologies&langs_count=10&title_color=0f0&text_color=c9d1d9&bg_color=0d1117&hide_border=true" width="300"/>
 <div>

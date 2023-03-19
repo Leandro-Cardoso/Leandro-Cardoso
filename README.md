@@ -10,21 +10,19 @@
   &emsp;<a href="https://www.youtube.com/channel/UCtbBdlytJ5b8KUogQo7rfXw">
     <img src="./svg/social/youtube.svg" width="65"/>
   </a>
+  <br>
+  <a href="mailto:leandrocardosodev@gmail.com"><span style="color: #0f0">leandrolimacardoso@gmail.com</span>
+  </a>
 </div>
 &nbsp;
 
 ## Stats:
-!!!Teste
 <img src="./svg/arrow_y.svg" width="10px" style="fill: #ff0"/> 
-{c:red}Working on my portfolio{/c}
+<span style="color: #ff0">Working on my portfolio</span>
 <br>
-<font color="#0f0">
-  <img src="./svg/arrow.svg" width="10px"/> 
-  Open to work
-</font>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leandro-Cardoso&hide_title=true&card_width=300&show_icons=true&include_all_commits=true&count_private=true&text_bold=false&ring_color=0f0&text_color=c9d1d9&icon_color=0f0&bg_color=0d1117&hide_border=true" width="100%"/>
-</div>
+<img src="./svg/arrow.svg" width="10px"/> 
+<span style="color: #0f0">Open to work</span>
+<img src="https://github-readme-stats.vercel.app/api?username=Leandro-Cardoso&hide_title=true&card_width=300&show_icons=true&include_all_commits=true&count_private=true&text_bold=false&ring_color=0f0&text_color=c9d1d9&icon_color=0f0&bg_color=0d1117&hide_border=true" width="100%"/>
 &nbsp;
 
 ## Technologies:
@@ -70,5 +68,5 @@
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&custom_title=Top%20used%20technologies&langs_count=10&title_color=0f0&text_color=c9d1d9&bg_color=0d1117&hide_border=true" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&custom_title=Top%20used%20technologies&langs_count=10&title_color=0f0&text_color=c9d1d9&bg_color=0d1117&hide_border=true" width="50%"/>
 <div>

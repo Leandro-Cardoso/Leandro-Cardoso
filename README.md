@@ -18,8 +18,8 @@
 &nbsp;
 
 ## Status:
-* Working on my portfolio
-* Open to work
+* 🟡 Working on my portfolio ⚙️🔨
+* 🟢 Open to work ✔️
 &nbsp;
 
 ## Technologies:
@@ -65,6 +65,6 @@
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&custom_title=Top%20used%20technologies&langs_count=10&title_color=0f0&text_color=c9d1d9&bg_color=0d1117&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&custom_title=Top%20used%20technologies&langs_count=10&title_color=0f0&text_color=c9d1d9&bg_color=0d1117&hide_border=true&layout=compact"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Leandro-Cardoso&hide_title=true&card_width=300&show_icons=true&include_all_commits=true&count_private=true&text_bold=false&ring_color=0f0&text_color=c9d1d9&icon_color=0f0&bg_color=0d1117&hide_border=true"/>
 <div>

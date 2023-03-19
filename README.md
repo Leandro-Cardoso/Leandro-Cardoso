@@ -19,6 +19,8 @@
 > Open to work
 <div align="center">
   <a href = "https://github.com/Leandro-Cardoso">
+    <img src="https://github-readme-stats.vercel.app/api?username=Leandro-Cardoso"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&langs_count=10"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Cardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFF&bg_color=161b22&border_color=161b22&title_color=c9d1d9"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&layout=compact&langs_count=7&theme=dark&bg_color=161b22&border_color=161b22&title_color=c9d1d9"/>
   </a>
@@ -26,44 +28,47 @@
 &nbsp;
 
 ## Technologies:
-<table align="center">
-  <tr>
-    <td width="100px">
-      &emsp;<b>Base:</b>
-    </td>
-    <td>
-      <img src="./svg/tech/python.svg" width="30"/>
-      <img src="./svg/tech/django.svg" width="30"/>
-      <img src="./svg/tech/flask.svg" width="30"/>
-      <img src="./svg/tech/csharp.svg" width="30"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      &emsp;<b>Web:</b>
-    </td>
-    <td>
-      <img src="./svg/tech/javascript.svg" width="30"/>
-      <img src="./svg/tech/react.svg" width="30"/>
-      <img src="./svg/tech/html.svg" width="30"/>
-      <img src="./svg/tech/css.svg" width="30"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      &emsp;<b>More:</b>
-    </td>
-    <td>
-      <img src="./svg/tech/git.svg" width="30"/>
-      <img src="./svg/tech/sql.svg" width="30"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      &emsp;<b>Learning:</b>
-    </td>
-    <td>
-      <img src="./svg/tech/docker.svg" width="30"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="100px">
+        &emsp;<b>Base:</b>
+      </td>
+      <td>
+        <img src="./svg/tech/python.svg" width="30"/>
+        <img src="./svg/tech/django.svg" width="30"/>
+        <img src="./svg/tech/flask.svg" width="30"/>
+        <img src="./svg/tech/csharp.svg" width="30"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        &emsp;<b>Web:</b>
+      </td>
+      <td>
+        <img src="./svg/tech/javascript.svg" width="30"/>
+        <img src="./svg/tech/react.svg" width="30"/>
+        <img src="./svg/tech/html.svg" width="30"/>
+        <img src="./svg/tech/css.svg" width="30"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        &emsp;<b>More:</b>
+      </td>
+      <td>
+        <img src="./svg/tech/git.svg" width="30"/>
+        <img src="./svg/tech/sql.svg" width="30"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        &emsp;<b>Learning:</b>
+      </td>
+      <td>
+        <img src="./svg/tech/docker.svg" width="30"/>
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&custom_title=Top used technologies&langs_count=10&title_color=c9d1d9&text_color=c9d1d9&bg_color=161b22&hide_border=true"/>
+<div>

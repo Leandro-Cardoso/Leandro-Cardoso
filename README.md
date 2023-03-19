@@ -12,7 +12,7 @@
   </a>
   <br>
   <a href="mailto:leandrocardosodev@gmail.com">
-    leandrolimacardoso@gmail.com
+    leandrocardosodev@gmail.com
   </a>
 </div>
 &nbsp;

@@ -26,8 +26,8 @@
 &nbsp;
 
 ## Technologies:
-<div align="center" width="100%">
-  <table width="300px">
+<div align="center" style="display: inline-block">
+  <table>
     <tr>
       <td width="100px">
         &emsp;<b>Base:</b>
@@ -68,5 +68,5 @@
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&custom_title=Top%20used%20technologies&langs_count=10&title_color=c9d1d9&text_color=c9d1d9&bg_color=161b22&hide_border=true" width="300px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&custom_title=Top%20used%20technologies&langs_count=10&title_color=c9d1d9&text_color=c9d1d9&bg_color=161b22&hide_border=true"/>
 <div>

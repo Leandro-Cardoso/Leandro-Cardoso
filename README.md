@@ -17,13 +17,9 @@
 </div>
 &nbsp;
 
-## Stats:
-<img src="./svg/arrow.svg" width="10px"/> 
-<code>Working on my portfolio</code>
-<br>
-<img src="./svg/arrow.svg" width="10px"/> 
-<code>Open to work</code>
-<img src="https://github-readme-stats.vercel.app/api?username=Leandro-Cardoso&hide_title=true&card_width=300&show_icons=true&include_all_commits=true&count_private=true&text_bold=false&ring_color=0f0&text_color=c9d1d9&icon_color=0f0&bg_color=0d1117&hide_border=true" width="100%"/>
+## Status:
+* Working on my portfolio
+* Open to work
 &nbsp;
 
 ## Technologies:
@@ -69,5 +65,6 @@
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&custom_title=Top%20used%20technologies&langs_count=10&title_color=0f0&text_color=c9d1d9&bg_color=0d1117&hide_border=true" width="75%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&custom_title=Top%20used%20technologies&langs_count=10&title_color=0f0&text_color=c9d1d9&bg_color=0d1117&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Leandro-Cardoso&hide_title=true&card_width=300&show_icons=true&include_all_commits=true&count_private=true&text_bold=false&ring_color=0f0&text_color=c9d1d9&icon_color=0f0&bg_color=0d1117&hide_border=true"/>
 <div>

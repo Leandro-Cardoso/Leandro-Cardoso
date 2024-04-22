@@ -26,7 +26,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="100px">
+      <td width="150px">
         &emsp;<b>Back-End:</b>
       </td>
       <td>

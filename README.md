@@ -1,12 +1,8 @@
 # Leandro Cardoso
 <div align="center">
-  <a href="https://www.linkedin.com/in/leandro-cardoso-992529266">
-    <img src="./svg/social/linkedin.svg" width="90"/>
-  </a>
-  &emsp;<a href="https://www.instagram.com/leandrocardosodev">
-    <img src="./svg/social/instagram.svg" width="70"/>
-    <img src="./svg/social/instagram_logo.svg" width="30"/>
-  </a>
+  <a href="https://www.linkedin.com/in/leandro-cardoso-992529266"><img src="./svg/social/linkedin.svg" width="90"/></a>
+  &emsp;
+  <a href="https://www.instagram.com/leandrocardosodev"><img src="./svg/social/instagram.svg" width="70"/><img src="./svg/social/instagram_logo.svg" width="30"/></a>
   <br>
   <a href="mailto:leandrocardosodev@gmail.com">
     leandrocardosodev@gmail.com

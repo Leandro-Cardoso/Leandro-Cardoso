@@ -15,8 +15,6 @@
 ### Working on:
 * [Estudo de TypeScript](https://github.com/Leandro-Cardoso/STUDY-TypeScript) ⚙️🔨
 * [My portfolio](https://github.com/Leandro-Cardoso/SITE-Portfolio-Leandro-Cardoso) ⚙️🔨
-* [Estudo de Algoritmos](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Algoritmos) ⚙️🔨
-* [Estudo de Programação Web](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites) ⚙️🔨
 
 ## Technologies:
 <div align="center">

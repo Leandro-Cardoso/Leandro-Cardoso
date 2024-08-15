@@ -13,7 +13,7 @@
 ## Status:
 * Open to work ✔️
 ### Working on:
-* [Estudo de Java]() ⚙️🔨
+* [Estudo de Java](https://github.com/Leandro-Cardoso/Java-Introdution) ⚙️🔨
 * [Estudo de Estrutura de Dados](https://github.com/Leandro-Cardoso/Vassouras-Estrutura-de-Dados) ⚙️🔨
 * [My portfolio](https://github.com/Leandro-Cardoso/SITE-Portfolio-Leandro-Cardoso) ⚙️🔨
 

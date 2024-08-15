@@ -13,7 +13,8 @@
 ## Status:
 * Open to work ✔️
 ### Working on:
-* [Estudo de TypeScript](https://github.com/Leandro-Cardoso/STUDY-TypeScript) ⚙️🔨
+* [Estudo de Java]() ⚙️🔨
+* [Estudo de Estrutura de Dados](https://github.com/Leandro-Cardoso/Vassouras-Estrutura-de-Dados) ⚙️🔨
 * [My portfolio](https://github.com/Leandro-Cardoso/SITE-Portfolio-Leandro-Cardoso) ⚙️🔨
 
 ## Technologies:
@@ -28,6 +29,7 @@
         <img src="./svg/tech/sql.svg" width="30"/>
         <img src="./svg/tech/django.svg" width="30"/>
         <img src="./svg/tech/flask.svg" width="30"/>
+        <img src="./svg/tech/cpp.svg" width="30"/>
         <img src="./svg/tech/csharp.svg" width="30" alt="TypeScript"/>
       </td>
     </tr>
@@ -56,6 +58,7 @@
         &emsp;<b>Learning:</b>
       </td>
       <td>
+        <img src="./svg/tech/java.svg" width="30"/>
         <img src="./svg/tech/docker.svg" width="30"/>
       </td>
     </tr>

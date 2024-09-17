@@ -12,6 +12,7 @@
 
 ## Status:
 * Open to work ✔️
+* IT Intern
 ### Working on:
 * [Estudo de Java](https://github.com/Leandro-Cardoso/Java-Introdution) ⚙️🔨
 * [Estudo de Estrutura de Dados em C++](https://github.com/Leandro-Cardoso/Vassouras-Estrutura-de-Dados) ⚙️🔨

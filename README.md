@@ -16,6 +16,8 @@
 * [Estudo de Java](https://github.com/Leandro-Cardoso/Java-Introdution) ⚙️🔨
 * [Estudo de Estrutura de Dados em C++](https://github.com/Leandro-Cardoso/Vassouras-Estrutura-de-Dados) ⚙️🔨
 * [Estudo de POO em Java](https://github.com/Leandro-Cardoso/Univassouras-POO) ⚙️🔨
+* [Estudo de Front End em Java](https://github.com/Leandro-Cardoso/Univassouras-Front-End-Java) ⚙️🔨
+* [Estudo de Física com Python e Java](https://github.com/Leandro-Cardoso/Univassouras-Fisica) ⚙️🔨
 * [My portfolio (reestruturando para Java)](https://github.com/Leandro-Cardoso/SITE-Portfolio-Leandro-Cardoso) ⚙️🔨
 
 ## Technologies:

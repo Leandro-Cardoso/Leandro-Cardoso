@@ -16,7 +16,7 @@
 ### Working on:
 * Quick projects:
   * [Estudo de POO em Java](https://github.com/Leandro-Cardoso/Java-POO) ⚙️🔨
-  * [Estudo de Estrutura de Dados em Python e C++](https://github.com/Leandro-Cardoso/Vassouras-Estrutura-de-Dados) ⚙️🔨
+  * [Estudo de Estrutura de Dados em Python, C++ e Java](https://github.com/Leandro-Cardoso/Vassouras-Estrutura-de-Dados) ⚙️🔨
   * [Estudo de POO em Python e Java](https://github.com/Leandro-Cardoso/Univassouras-POO) ⚙️🔨
   * [Estudo de Front End em Java](https://github.com/Leandro-Cardoso/Univassouras-Front-End-Java) ⚙️🔨
   * [Estudo de Física com Python e Java](https://github.com/Leandro-Cardoso/Univassouras-Fisica) ⚙️🔨

@@ -15,16 +15,12 @@
 * IT Intern
 ### Working on:
 * Quick projects:
-  * [Estudo de POO em Java](https://github.com/Leandro-Cardoso/Java-POO) ⚙️🔨
+  * [Estudo do core do Java](https://github.com/Leandro-Cardoso/Java-Core) ⚙️🔨
   * [Estudo de Estrutura de Dados em Python, C++ e Java](https://github.com/Leandro-Cardoso/Vassouras-Estrutura-de-Dados) ⚙️🔨
-  * [Estudo de POO em Python e Java](https://github.com/Leandro-Cardoso/Univassouras-POO) ⚙️🔨
-  * [Estudo de Front End em Java](https://github.com/Leandro-Cardoso/Univassouras-Front-End-Java) ⚙️🔨
-  * [Estudo de Física com Python e Java](https://github.com/Leandro-Cardoso/Univassouras-Fisica) ⚙️🔨
-  * [Estudo de Engenharia Economica com Java](https://github.com/Leandro-Cardoso/Univassouras-Engenharia-Economica) ⚙️🔨
-  * [My portfolio layout (remake in Java)](https://github.com/Leandro-Cardoso/SITE-Portfolio-Leandro-Cardoso) ⚙️🔨
+  * Estudo do Java Spring
 
 * Long projects:
-  * **Leandro Cardoso {Dev}** - My Back End projects portfolio in Java ⚙️🔨
+  * [**Leandro Cardoso {Dev}** - My Back End projects portfolio in Java and Spring](https://github.com/Leandro-Cardoso/SITE-Leandro-Cardoso) ⚙️🔨
   * **Emprego Seguro** - **LOC** - Um aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo) ⚙️🔨
   * **Game Engine** - A multiplatform Game Engine in Java (solo colege final project) ⚙️🔨
   * Other projects in the future...
@@ -62,6 +58,7 @@ Conhecimento Full Stack mas com FOCO em Back End.
         &emsp;<b>Tools:</b>
       </td>
       <td>
+        <img src="./svg/tech/spring.svg" width="30"/>
         <img src="./svg/tech/django.svg" width="30"/>
         <img src="./svg/tech/flask.svg" width="30"/>
         <img src="./svg/tech/react.svg" width="30"/>

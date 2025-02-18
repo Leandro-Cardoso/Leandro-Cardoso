@@ -16,7 +16,7 @@
 ### Working on:
 * Quick projects:
   * [Estudo do core do Java](https://github.com/Leandro-Cardoso/Java-Core) ⚙️🔨
-  * [Estudo de Estrutura de Dados em Python, C++ e Java](https://github.com/Leandro-Cardoso/Vassouras-Estrutura-de-Dados) ⚙️🔨
+  * [Estudo de Banco de Dados Relacionais SQL](https://github.com/Leandro-Cardoso/Univassouras-Banco-de-Dados-Relacionais) ⚙️🔨
   * Estudo do Java Spring
 
 * Long projects:

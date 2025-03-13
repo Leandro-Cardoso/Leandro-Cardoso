@@ -59,6 +59,7 @@ Conhecimento Full Stack mas com FOCO em Back End.
       </td>
       <td>
         <img src="./svg/tech/spring.svg" width="30"/>
+        <img src="./svg/tech/postgresql.svg" width="30"/>
         <img src="./svg/tech/django.svg" width="30"/>
         <img src="./svg/tech/flask.svg" width="30"/>
         <img src="./svg/tech/react.svg" width="30"/>

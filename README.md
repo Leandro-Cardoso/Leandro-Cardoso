@@ -26,7 +26,7 @@
   * Other projects in the future...
 
 ## Technologies:
-Conhecimento Full Stack mas com FOCO em Back End.
+Focused on Back End..
 <div align="center">
   <table>
     <tr>

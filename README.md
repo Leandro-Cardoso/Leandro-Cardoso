@@ -17,7 +17,7 @@
 * Quick projects:
   * [Estudo do core do Java](https://github.com/Leandro-Cardoso/Java-Core) ⚙️🔨
   * [Estudo de Banco de Dados Relacionais SQL](https://github.com/Leandro-Cardoso/Vassouras-Banco-de-Dados-Relacionais) ⚙️🔨
-  * Estudo do Java Spring
+  * [Estudo do Java Spring](https://github.com/Leandro-Cardoso/Java-Spring) ⚙️🔨
 
 * Long projects:
   * [**Leandro Cardoso {Dev}** - My Back End projects portfolio in Java and Spring](https://github.com/Leandro-Cardoso/SITE-Leandro-Cardoso) ⚙️🔨

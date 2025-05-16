@@ -20,7 +20,7 @@
   * [Estudo do Java Spring](https://github.com/Leandro-Cardoso/Java-Spring) ⚙️🔨
 
 * Long projects:
-  * [**Leandro Cardoso {Dev}** - My Back End projects portfolio in Java and Spring](https://github.com/Leandro-Cardoso/SITE-Leandro-Cardoso) ⚙️🔨
+  * [**Leandro Cardoso {Dev}** - My Back End projects portfolio in Java and Spring](https://github.com/Leandro-Cardoso/Leandro-Cardoso-DEV) ⚙️🔨
   * **Emprego Seguro** - **LOC** - Um aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo) ⚙️🔨
   * **Game Engine** - A multiplatform Game Engine in Java (solo colege final project) ⚙️🔨
   * Other projects in the future...
@@ -60,17 +60,10 @@ Focused on Back End..
       <td>
         <img src="./svg/tech/spring.svg" width="30"/>
         <img src="./svg/tech/postgresql.svg" width="30"/>
+        <img src="./svg/tech/docker.svg" width="30"/>
         <img src="./svg/tech/django.svg" width="30"/>
         <img src="./svg/tech/flask.svg" width="30"/>
         <img src="./svg/tech/react.svg" width="30"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        &emsp;<b>Learning:</b>
-      </td>
-      <td>
-        <img src="./svg/tech/docker.svg" width="30"/>
       </td>
     </tr>
   </table>

@@ -15,18 +15,16 @@
 * IT Intern
 ### Working on:
 * Quick projects:
-  * [Estudo do core do Java](https://github.com/Leandro-Cardoso/Java-Core) ⚙️🔨
   * [Estudo de Banco de Dados Relacionais SQL](https://github.com/Leandro-Cardoso/Vassouras-Banco-de-Dados-Relacionais) ⚙️🔨
-  * [Estudo do Java Spring](https://github.com/Leandro-Cardoso/Java-Spring) ⚙️🔨
+  * [Studying Java (Spring)](https://github.com/Leandro-Cardoso/Java-Spring) ⚙️🔨
+  * [Studying Java (core)](https://github.com/Leandro-Cardoso/Java-Core) ⚙️🔨
 
 * Long projects:
   * [**Leandro Cardoso {Dev}** - My Back End projects portfolio in Java and Spring](https://github.com/Leandro-Cardoso/Leandro-Cardoso-DEV) ⚙️🔨
-  * **Emprego Seguro** - **LOC** - Um aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo) ⚙️🔨
-  * **Game Engine** - A multiplatform Game Engine in Java (solo colege final project) ⚙️🔨
-  * Other projects in the future...
+  * [**Emprego Seguro** - **LOC** - Um aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo)](https://github.com/Leandro-Cardoso/Emprego-Seguro-api) ⚙️🔨
 
 ## Technologies:
-Focused on Back End..
+Focused on BackEnd..
 <div align="center">
   <table>
     <tr>

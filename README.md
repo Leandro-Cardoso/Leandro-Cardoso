@@ -20,7 +20,7 @@
   * [Studying Java (core)](https://github.com/Leandro-Cardoso/Java-Core) ⚙️🔨
 
 * Long projects:
-  * [**Leandro Cardoso {Dev}** - My Back End projects portfolio in Java and Spring](https://github.com/Leandro-Cardoso/Leandro-Cardoso-DEV) ⚙️🔨
+  * [**Leandro Cardoso {Dev}** - My BackEnd projects portfolio in Java and Spring](https://github.com/Leandro-Cardoso/leandrocardoso.dev) ⚙️🔨
   * [**Emprego Seguro** - **LOC** - Um aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo)](https://github.com/Leandro-Cardoso/Emprego-Seguro-api) ⚙️🔨
 
 ## Technologies:

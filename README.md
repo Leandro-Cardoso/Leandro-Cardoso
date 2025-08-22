@@ -15,7 +15,9 @@
 * IT Intern
 ### Working on:
 * Quick projects:
-  * [Estudo de Banco de Dados Relacionais SQL](https://github.com/Leandro-Cardoso/Vassouras-Banco-de-Dados-Relacionais) ⚙️🔨
+  * Blog - Back End (Django, Python e PostgreSQL) ⚙️🔨
+  * IOT (C++ e Arduino) ⚙️🔨
+  * Banco de Dados Não Relacionais ⚙️🔨
   * [Studying Java (Spring)](https://github.com/Leandro-Cardoso/Java-Spring) ⚙️🔨
   * [Studying Java (core)](https://github.com/Leandro-Cardoso/Java-Core) ⚙️🔨
 

@@ -1,11 +1,19 @@
 # Leandro Cardoso
 <div align="center">
-  <a href="https://www.linkedin.com/in/leandro-cardoso-992529266"><img src="./svg/social/linkedin.svg" width="90"/></a>
+  <a href="https://www.linkedin.com/in/leandro-cardoso-992529266" target="_blank">
+    <img src="./svg/social/linkedin.svg" width="90"/>
+  </a>
   &emsp;
-  <a href="https://x.com/LeandroCDev"><img src="./svg/social/x.svg" width="25"/></a>
+  <a href="https://x.com/LeandroCDev" target="_blank">
+    <img src="./svg/social/x.svg" width="25"/>
+  </a>
   <br>
   <a href="mailto:leandrocardosodev@gmail.com">
     leandrocardosodev@gmail.com
+  </a>
+  <br>
+  <a href="https://leandrocardoso.dev" target="_blank">
+    <!-- TODO: add PORTFOLIO: leandrocardoso.dev -->
   </a>
 </div>
 &nbsp;
@@ -18,11 +26,12 @@
   * Blog - Back End (Django, Python e PostgreSQL) ⚙️🔨
   * IOT (C++ e Arduino) ⚙️🔨
   * [Banco de Dados Não Relacionais (MongoDB, SQL e Python)](https://github.com/Leandro-Cardoso/Vassouras-Banco-de-Dados-Nao-Relacionais) ⚙️🔨
+  * [Blog (Java Spring Boot e PostgreSQL)](https://github.com/Leandro-Cardoso/dev.leandrocardoso.blog) ⚙️🔨
   * [Studying Java (Spring)](https://github.com/Leandro-Cardoso/Java-Spring) ⚙️🔨
   * [Studying Java (core)](https://github.com/Leandro-Cardoso/Java-Core) ⚙️🔨
 
 * Long projects:
-  * [**Leandro Cardoso {Dev}** - My BackEnd projects portfolio in Java and Spring](https://github.com/Leandro-Cardoso/leandrocardoso.dev) ⚙️🔨
+  * [**Leandro Cardoso {Dev}** - My BackEnd projects portfolio in Java and Spring](https://github.com/Leandro-Cardoso/leandrocardoso.dev) ⚙️🔨 <!-- TODO: Remove -->
   * [**Emprego Seguro** - **LOC** - Um aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo)](https://github.com/Leandro-Cardoso/Emprego-Seguro-api) ⚙️🔨
 
 ## Technologies:

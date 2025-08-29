@@ -23,16 +23,17 @@
 * IT Intern
 ### Working on:
 * Quick projects:
-  * Blog - Back End (Django, Python e PostgreSQL) ⚙️🔨
-  * [IOT (C++ e Arduino)](https://github.com/Leandro-Cardoso/Univassouras-IOT) ⚙️🔨
-  * [Banco de Dados Não Relacionais (MongoDB, SQL e Python)](https://github.com/Leandro-Cardoso/Vassouras-Banco-de-Dados-Nao-Relacionais) ⚙️🔨
-  * [Blog (Java Spring Boot e PostgreSQL)](https://github.com/Leandro-Cardoso/dev.leandrocardoso.blog) ⚙️🔨
-  * [Studying Java (Spring)](https://github.com/Leandro-Cardoso/Java-Spring) ⚙️🔨
-  * [Studying Java (core)](https://github.com/Leandro-Cardoso/Java-Core) ⚙️🔨
+  * [**Blog** (Java Spring Boot e PostgreSQL)](https://github.com/Leandro-Cardoso/dev.leandrocardoso.blog) ⚙️🔨
+  * **Blog** - Back End (Django, Python e PostgreSQL) ⚙️🔨
+  * [**Estudo de Back End** (Django e PostgreSQL)](https://github.com/Leandro-Cardoso/Univassouras-BackEnd) ⚙️🔨
+  * [**Estudo de banco de Dados Não Relacionais** (MongoDB, SQL e Python)](https://github.com/Leandro-Cardoso/Vassouras-Banco-de-Dados-Nao-Relacionais) ⚙️🔨
+  * [**Estudo de IOT** (C++ e Arduino)](https://github.com/Leandro-Cardoso/Univassouras-IOT) ⚙️🔨
+  * [**Studying Java** (Spring)](https://github.com/Leandro-Cardoso/Java-Spring) ⚙️🔨
 
 * Long projects:
   * [**Leandro Cardoso {Dev}** - My BackEnd projects portfolio in Java and Spring](https://github.com/Leandro-Cardoso/leandrocardoso.dev) ⚙️🔨 <!-- TODO: Remove -->
   * [**Emprego Seguro** - **LOC** - Um aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo)](https://github.com/Leandro-Cardoso/Emprego-Seguro-api) ⚙️🔨
+  * [**Others**](https://github.com/Leandro-Cardoso?tab=repositories) ⚙️🔨
 
 ## Technologies:
 Focused on BackEnd..

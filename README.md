@@ -27,7 +27,7 @@
   <a href="https://leandro-cardoso.github.io/DEV" target="_blank" color="#D4A017">
     <b>PORTFOLIO</b> -> https://leandro-cardoso.github.io/DEV
     <br><br>
-    <img src="https://leandro-cardoso.github.io/DEV/assets/images/preview/portfolio.png" width="300" border="5px solid #D4A017"/>
+    <img src="https://leandro-cardoso.github.io/DEV/assets/images/preview/portfolio.png" width="300"/>
   </a>
 
   <h2>Status</h2>
@@ -46,9 +46,7 @@
   * [**Studying Java** (Spring)](https://github.com/Leandro-Cardoso/Java-Spring) ⚙️🔨
 
 * Long projects:
-  * [**Leandro Cardoso {Dev}** - My BackEnd projects portfolio in Java and Spring](https://github.com/Leandro-Cardoso/leandrocardoso.dev) ⚙️🔨 <!-- TODO: Remove -->
   * [**Emprego Seguro** - **LOC** - Um aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo)](https://github.com/Leandro-Cardoso/Emprego-Seguro-api) ⚙️🔨
-  * [**Others**](https://github.com/Leandro-Cardoso?tab=repositories) ⚙️🔨
 
 <div align="center">
   

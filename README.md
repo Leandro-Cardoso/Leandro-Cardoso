@@ -17,18 +17,14 @@
   <a href="https://leandrocardoso.dev" target="_blank">
     <!-- TODO: add PORTFOLIO: leandrocardoso.dev -->
   </a>
+  <a href="https://leandro-cardoso.github.io/DEV" target="_blank">
+    <img src="https://leandro-cardoso.github.io/DEV/assets/images/favicon.png" width="30"/>
+    <b>PORTFOLIO</b> -> https://leandro-cardoso.github.io/DEV
+  </a>
 </div>
 &nbsp;
 
 <div align="center">
-
-  <h2>Portfolio</h2>
-  
-  <a href="https://leandro-cardoso.github.io/DEV" target="_blank" color="#D4A017">
-    <b>PORTFOLIO</b> -> https://leandro-cardoso.github.io/DEV
-    <br><br>
-    <img src="https://leandro-cardoso.github.io/DEV/assets/images/preview/portfolio.png" width="300"/>
-  </a>
 
   <h2>Status</h2>
 

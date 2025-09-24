@@ -1,29 +1,7 @@
-<style>
-  body {
-    background-color: #121212;
-    color: #aaa;
-  }
-  h2,
-  h3 {
-    color: #D4A017;
-  }
-  h1 {
-    background-color: #D4A017;
-    color: #121212;
-    text-align: center;
-    font-weight: bolder;
-  }
-  a {
-    color: #fff;
-  }
-  a:hover {
-    color: #D4A017;
-  }
-</style>
-
-# Leandro Cardoso
-
 <div align="center">
+
+  <h1>Leandro Cardoso</h1>
+
   <a href="https://www.linkedin.com/in/leandro-cardoso-992529266" target="_blank">
     <img src="./svg/social/linkedin.svg" width="90"/>
   </a>
@@ -48,6 +26,8 @@
   
   <a href="https://leandro-cardoso.github.io/DEV" target="_blank" color="#D4A017">
     <b>PORTFOLIO</b> -> https://leandro-cardoso.github.io/DEV
+    <br><br>
+    <img src="https://leandro-cardoso.github.io/DEV/assets/images/preview/portfolio.png" width="300" border="5px solid #D4A017"/>
   </a>
 
   <h2>Status</h2>

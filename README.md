@@ -37,7 +37,7 @@
   * [**Blog** (Java Spring Boot e PostgreSQL)](https://github.com/Leandro-Cardoso/dev.leandrocardoso.blog) ⚙️🔨
   * [**Blog** - Back End (Django, Python e PostgreSQL)](https://github.com/Leandro-Cardoso/Univassouras-Blog) ⚙️🔨
   * [**Estudo de Back End** (Django e PostgreSQL)](https://github.com/Leandro-Cardoso/Univassouras-BackEnd) ⚙️🔨
-  * [**Estudo de banco de Dados Não Relacionais** (MongoDB, SQL e Python)](https://github.com/Leandro-Cardoso/Vassouras-Banco-de-Dados-Nao-Relacionais) ⚙️🔨
+  * [**Estudo de banco de Dados Não Relacionais** (MongoDB, SQL, Python e Flask)](https://github.com/Leandro-Cardoso/Vassouras-Banco-de-Dados-Nao-Relacionais) ⚙️🔨
   * [**Estudo de IOT** (C++ e Arduino)](https://github.com/Leandro-Cardoso/Univassouras-IOT) ⚙️🔨
   * [**Studying Java** (Spring)](https://github.com/Leandro-Cardoso/Java-Spring) ⚙️🔨
 

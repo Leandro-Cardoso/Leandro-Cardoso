@@ -39,10 +39,15 @@
   * [**Estudo de Back End** (Django e PostgreSQL)](https://github.com/Leandro-Cardoso/Univassouras-BackEnd) ⚙️🔨
   * [**Estudo de banco de Dados Não Relacionais** (MongoDB, SQL, Python e Flask)](https://github.com/Leandro-Cardoso/Vassouras-Banco-de-Dados-Nao-Relacionais) ⚙️🔨
   * [**Estudo de IOT** (C++ e Arduino)](https://github.com/Leandro-Cardoso/Univassouras-IOT) ⚙️🔨
-  * [**Studying Java** (Spring)](https://github.com/Leandro-Cardoso/Java-Spring) ⚙️🔨
 
 * Long projects:
-  * [**Emprego Seguro** - **LOC** - Um aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo)](https://github.com/Leandro-Cardoso/Emprego-Seguro-api) ⚙️🔨
+  * [**Emprego Seguro API** - **LOC** - API do aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo)](https://github.com/Leandro-Cardoso/Emprego-Seguro-api) ⚙️🔨
+  * [**Emprego Seguro** - **LOC** - Front End do aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo)](https://github.com/Leandro-Cardoso/Emprego-Seguro) ⚙️🔨
+
+* Future projects:
+  * **Tic-Tac-Toe** - v2.0 (Java com interface web)
+  * **Campo Minado** - v2.0 (Java com interface web)
+  * **Batalha Naval** - v2.0 (Java com interface web) 
 
 <div align="center">
   

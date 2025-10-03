@@ -30,28 +30,29 @@
 
 </div>
 
-* Open to work ✔️
-* IT Intern
-### Working on:
-* Quick projects:
+* Estagiário de IT
+
+### Trabalhando em:
+
+* Projetos curtos:
   * [**Blog** (Java Spring Boot e PostgreSQL)](https://github.com/Leandro-Cardoso/dev.leandrocardoso.blog) ⚙️🔨
   * [**Blog** - Back End (Django, Python e PostgreSQL)](https://github.com/Leandro-Cardoso/Univassouras-Blog) ⚙️🔨
+  * [**Tic-Tac-Toe** - v2.0 (Java e libGDX)](https://github.com/Leandro-Cardoso/Tic-Tac-Toe-v2.0)  ⚙️🔨
   * [**Estudo de Back End** (Django e PostgreSQL)](https://github.com/Leandro-Cardoso/Univassouras-BackEnd) ⚙️🔨
   * [**Estudo de banco de Dados Não Relacionais** (MongoDB, SQL, Python e Flask)](https://github.com/Leandro-Cardoso/Vassouras-Banco-de-Dados-Nao-Relacionais) ⚙️🔨
   * [**Estudo de IOT** (C++ e Arduino)](https://github.com/Leandro-Cardoso/Univassouras-IOT) ⚙️🔨
 
-* Long projects:
+* Projetos longos:
   * [**Emprego Seguro API** - **LOC** - API do aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo)](https://github.com/Leandro-Cardoso/Emprego-Seguro-api) ⚙️🔨
   * [**Emprego Seguro** - **LOC** - Front End do aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo)](https://github.com/Leandro-Cardoso/Emprego-Seguro) ⚙️🔨
 
-* Future projects:
-  * **Tic-Tac-Toe** - v2.0 (Java com interface web)
-  * **Campo Minado** - v2.0 (Java com interface web)
-  * **Batalha Naval** - v2.0 (Java com interface web) 
+* Projetos futuros:
+  * **Campo Minado** - v2.0 (Java e libGDX)
+  * **Batalha Naval** - v2.0 (Java e libGDX)
 
 <div align="center">
   
-  <h2>Techs</h2>
+  <h2>Tecnologias</h2>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&custom_title=Top%20used%20technologies&langs_count=10&title_color=0f0&text_color=c9d1d9&bg_color=0d1117&hide_border=true&layout=compact"/>
 

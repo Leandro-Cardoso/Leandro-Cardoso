@@ -30,7 +30,7 @@
 
 </div>
 
-* Estagiário de IT
+* Engenheiro de Software (Estagiário)
 
 ### Trabalhando em:
 
@@ -47,8 +47,11 @@
   * [**Emprego Seguro** - **LOC** - Front End do aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo)](https://github.com/Leandro-Cardoso/Emprego-Seguro) ⚙️🔨
 
 * Projetos futuros:
+  * **Todo** - App desktop v1.0 (Python, Django e SQLite)
+  * **Personal Manager** - App desktop v1.0 (Python, Django e SQLite)
   * **Campo Minado** - v2.0 (Java e libGDX)
   * **Batalha Naval** - v2.0 (Java e libGDX)
+  * **Game Engine** - v1.0 (Java e libGDX)
 
 <div align="center">
   

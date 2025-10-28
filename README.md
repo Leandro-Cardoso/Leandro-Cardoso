@@ -3,11 +3,11 @@
   <h1>Leandro Cardoso</h1>
 
   <a href="https://www.linkedin.com/in/leandro-cardoso-992529266" target="_blank">
-    <img src="./svg/social/linkedin.svg" width="90"/>
+    <img src="https://leandro-cardoso.github.io/DEV/assets/images/social/linkedin.svg"/>
   </a>
   &emsp;
   <a href="https://x.com/LeandroCDev" target="_blank">
-    <img src="./svg/social/x.svg" width="25"/>
+    <img src="https://leandro-cardoso.github.io/DEV/assets/images/social/x.svg"/>
   </a>
   <br>
   <a href="mailto:leandrocardosodev@gmail.com">

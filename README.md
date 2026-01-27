@@ -35,7 +35,7 @@
 ### Trabalhando em:
 
 * Projetos curtos:
-  * [**ToDo** - Web app v1.0 (Python Django, SQLite e Docker)]() ⚙️🔨
+  * [**Smart ToDo** - Web app v1.0 (Python Django, SQLite e Docker)](https://github.com/Leandro-Cardoso/smart-todo) ⚙️🔨
   * [**Personal-Manager** - Web app v1.0 (Python Django, SQLite e Docker)]() ⚙️🔨
   * [**Blog** (Java Spring Boot e PostgreSQL)](https://github.com/Leandro-Cardoso/dev.leandrocardoso.blog) ⚙️🔨
   * [**Tic-Tac-Toe** - v2.0 (Java e libGDX)](https://github.com/Leandro-Cardoso/Tic-Tac-Toe-v2.0)  ⚙️🔨

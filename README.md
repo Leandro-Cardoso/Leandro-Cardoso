@@ -43,7 +43,7 @@
   * [**Tic-Tac-Toe** - v2.0 (Java e libGDX)](https://github.com/Leandro-Cardoso/Tic-Tac-Toe-v2.0)  ⚙️🔨
 
 * Projetos longos:
-  * **Game Engine** - v1.0 (C++)
+  * [**Game Engine 2D** (v1.0) - Projeto para TCC da graduação de Engenharia de Software desenvolvido em formato de biblioteca em C++.](https://github.com/Leandro-Cardoso/2d-game-engine/) ⚙️🔨
   * [**Emprego Seguro API** - **LOC** - API do aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo)](https://github.com/Leandro-Cardoso/Emprego-Seguro-api) ⚙️🔨
   * [**Emprego Seguro** - **LOC** - Front End do aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo)](https://github.com/Leandro-Cardoso/Emprego-Seguro) ⚙️🔨
 

@@ -32,31 +32,36 @@
 
 * Engenheiro de Software (Estagiário)
 
-### Trabalhando em:
+<div align="center">
+
+  <h2>Projetos</h2>
+
+</div>
 
 * Projetos curtos:
-  * [**ToDo** - v1.0 (C++)](https://github.com/Leandro-Cardoso/ToDo) ⚙️🔨
-  * **LogLib** - Bibllioteca para criar logs v1.0 (C++) ⚙️🔨
-  * **WinLib** - Bibllioteca para criar janelas v1.0 (C++) ⚙️🔨
-  * [**Personal-Manager** - Web app v1.0 (Python Django, SQLite e Docker)]() ⚙️🔨
-  * [**Blog** (Java Spring Boot e PostgreSQL)](https://github.com/Leandro-Cardoso/dev.leandrocardoso.blog) ⚙️🔨
-  * [**Tic-Tac-Toe** - v2.0 (Java e libGDX)](https://github.com/Leandro-Cardoso/Tic-Tac-Toe-v2.0)  ⚙️🔨
+
+  * [**ToDo** - v1.0 (C++).](https://github.com/Leandro-Cardoso/ToDo) ⚙️🔨
+
+  * **LogLib** - Bibllioteca para criar logs v1.0 (C++). ⚙️🔨
+
+  * **WinLib** - Bibllioteca para criar janelas v1.0 (C++). ⚙️🔨
+
+  * **Personal Manager** - Web app v1.0 (Python Django, SQLite e Docker). ⚙️🔨
+
+  * [**Blog** (Java Spring Boot e PostgreSQL).](https://github.com/Leandro-Cardoso/dev.leandrocardoso.blog) ⚙️🔨
+
+  * [**Tic-Tac-Toe** - v2.0 (Java e libGDX).](https://github.com/Leandro-Cardoso/Tic-Tac-Toe-v2.0)  ⚙️🔨
 
 * Projetos longos:
-  * [**Game Engine 2D** (v1.0) - Projeto para TCC da graduação de Engenharia de Software desenvolvido em formato de biblioteca em C++.](https://github.com/Leandro-Cardoso/2d-game-engine/) ⚙️🔨
-  * [**Emprego Seguro API** - **LOC** - API do aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo)](https://github.com/Leandro-Cardoso/Emprego-Seguro-api) ⚙️🔨
-  * [**Emprego Seguro** - **LOC** - Front End do aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo)](https://github.com/Leandro-Cardoso/Emprego-Seguro) ⚙️🔨
+
+  * [**Game Engine 2D** - v1.0 (Cpp) - Projeto para TCC da graduação em Engenharia de Software desenvolvido em formato de biblioteca.](https://github.com/Leandro-Cardoso/2d-game-engine/) ⚙️🔨
+
+  * [**Emprego Seguro API** - **LOC** - API do aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo).](https://github.com/Leandro-Cardoso/Emprego-Seguro-api) ⚙️🔨
+
+  * [**Emprego Seguro** - **LOC** - Front End do aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo).](https://github.com/Leandro-Cardoso/Emprego-Seguro) ⚙️🔨
 
 * Projetos futuros:
-  * **Campo Minado** - v2.0 (Java e libGDX ou C++)
-  * **Batalha Naval** - v2.0 (Java e libGDX ou C++)
 
-<div align="center">
-  
-  <h2>Tecnologias</h2>
+  * **Campo Minado** - v2.0 (Java e libGDX ou C++).
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Cardoso&custom_title=Top%20used%20technologies&langs_count=10&title_color=0f0&text_color=c9d1d9&bg_color=0d1117&hide_border=true&layout=compact"/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Leandro-Cardoso&hide_title=true&card_width=300&show_icons=true&include_all_commits=true&count_private=true&text_bold=false&ring_color=0f0&text_color=c9d1d9&icon_color=0f0&bg_color=0d1117&hide_border=true"/>
-
-<div>
+  * **Batalha Naval** - v2.0 (Java e libGDX ou C++).

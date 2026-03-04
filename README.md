@@ -38,6 +38,12 @@
 
 </div>
 
+* **PROJETOS LONGOS:**
+
+  * Bibliotecas:
+
+    * [**Game Engine 2D** - v1.0 (Cpp) - Projeto para TCC da graduação em Engenharia de Software desenvolvido em formato de biblioteca.](https://github.com/Leandro-Cardoso/2d-game-engine/) ⚙️🔨
+
 * **PROJETOS CURTOS:**
 
   * Jogos:
@@ -47,7 +53,7 @@
   * Ferramentas:
 
     * [**ToDo** - v1.0 (C++).](https://github.com/Leandro-Cardoso/ToDo) ⚙️🔨
-    * **Personal Manager** - Web app - v1.0 (Python Django, SQLite e Docker). ⚙️🔨
+    * **Personal Manager** - v1.0 (C++). ⚙️🔨
 
   * Bibliotecas:
 
@@ -58,38 +64,40 @@
   
     * [**Blog** (Java Spring Boot e PostgreSQL).](https://github.com/Leandro-Cardoso/dev.leandrocardoso.blog) ⚙️🔨
 
-* **PROJETOS LONGOS:**
+<div align="center">
 
-  * Bibliotecas:
+  <h2>Projetos Futuros</h2>
 
-    * [**Game Engine 2D** - v1.0 (Cpp) - Projeto para TCC da graduação em Engenharia de Software desenvolvido em formato de biblioteca.](https://github.com/Leandro-Cardoso/2d-game-engine/) ⚙️🔨
+</div>
 
-* **PROJETOS FUTUROS:**
+* Jogos:
 
-  * Jogos:
+  * **Campo Minado** - v2.0 (Java e libGDX ou C++).
+  * **Batalha Naval** - v2.0 (Java e libGDX ou C++).
+  * **Bomber Men** - v1.0 (C++) - Versão diferenciada seguir apenas a idéia.
+  * **Escape from the Dark Labyrinth** - v1.0.
+  * **Green Valley** - v1.0 (C++) - RPG.
+  * **Sem nome** - v1.0 (C# e Unity) - Jogo de casa mal assombrada.
 
-    * **Campo Minado** - v2.0 (Java e libGDX ou C++).
-    * **Batalha Naval** - v2.0 (Java e libGDX ou C++).
-    * **Bomber Men** - v1.0 (C++, Versão diferenciada).
-    * **Escape from the Dark Labyrinth** - v1.0.
-    * **Green Valley** - RPG - v1.0 (C++).
-    * **Sem nome** - Jogo de casa mal assombrada - v1.0 (C# e Unity).
+<div align="center">
 
-* **IDÉIAS PARA PROJETOS:**
+  <h2>Idéias para Projetos</h2>
 
-  * Jogos:
+</div>
 
-    * **Sudoku**
-    * **Caça-Palavras** (Word Hunter)
-    * **Snake**
-    * **Tetris**
-    * **Pong** (com mecanica de quebrar blocos)
-    * **Pacman**
-    * **Bomber Men**
-    * **Damas** (Checkers)
-    * **Xadrez** (Chess)
-  
-  * Ferramentas:
+* Jogos:
 
-    * **Dashboard**
-    * **Live wallpaper**
+  * **Sudoku**
+  * **Caça-Palavras** (Word Hunter)
+  * **Snake**
+  * **Tetris**
+  * **Pong** (com mecanica de quebrar blocos)
+  * **Pacman**
+  * **Bomber Men**
+  * **Damas** (Checkers)
+  * **Xadrez** (Chess)
+
+* Ferramentas:
+
+  * **Dashboard**
+  * **Live wallpaper**

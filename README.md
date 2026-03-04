@@ -34,7 +34,7 @@
 
 <div align="center">
 
-  <h2>Projetos</h2>
+  <h2>Projetos em Andamento</h2>
 
 </div>
 

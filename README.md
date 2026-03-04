@@ -38,30 +38,58 @@
 
 </div>
 
-* Projetos curtos:
+* **PROJETOS CURTOS:**
 
-  * [**ToDo** - v1.0 (C++).](https://github.com/Leandro-Cardoso/ToDo) ⚙️🔨
+  * Jogos:
 
-  * **LogLib** - Bibllioteca para criar logs v1.0 (C++). ⚙️🔨
+    * [**Tic-Tac-Toe** - v2.0 (Java e libGDX).](https://github.com/Leandro-Cardoso/Tic-Tac-Toe-v2.0)  ⚙️🔨
 
-  * **WinLib** - Bibllioteca para criar janelas v1.0 (C++). ⚙️🔨
+  * Ferramentas:
 
-  * **Personal Manager** - Web app v1.0 (Python Django, SQLite e Docker). ⚙️🔨
+    * [**ToDo** - v1.0 (C++).](https://github.com/Leandro-Cardoso/ToDo) ⚙️🔨
+    * **Personal Manager** - Web app - v1.0 (Python Django, SQLite e Docker). ⚙️🔨
 
-  * [**Blog** (Java Spring Boot e PostgreSQL).](https://github.com/Leandro-Cardoso/dev.leandrocardoso.blog) ⚙️🔨
+  * Bibliotecas:
 
-  * [**Tic-Tac-Toe** - v2.0 (Java e libGDX).](https://github.com/Leandro-Cardoso/Tic-Tac-Toe-v2.0)  ⚙️🔨
+    * **LogLib** - Bibllioteca para criar logs - v1.0 (C++). ⚙️🔨
+    * **WinLib** - Bibllioteca para criar janelas - v1.0 (C++). ⚙️🔨
+  
+  * Web:
+  
+    * [**Blog** (Java Spring Boot e PostgreSQL).](https://github.com/Leandro-Cardoso/dev.leandrocardoso.blog) ⚙️🔨
 
-* Projetos longos:
+* **PROJETOS LONGOS:**
 
-  * [**Game Engine 2D** - v1.0 (Cpp) - Projeto para TCC da graduação em Engenharia de Software desenvolvido em formato de biblioteca.](https://github.com/Leandro-Cardoso/2d-game-engine/) ⚙️🔨
+  * Bibliotecas:
 
-  * [**Emprego Seguro API** - **LOC** - API do aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo).](https://github.com/Leandro-Cardoso/Emprego-Seguro-api) ⚙️🔨
+    * [**Game Engine 2D** - v1.0 (Cpp) - Projeto para TCC da graduação em Engenharia de Software desenvolvido em formato de biblioteca.](https://github.com/Leandro-Cardoso/2d-game-engine/) ⚙️🔨
 
-  * [**Emprego Seguro** - **LOC** - Front End do aplicativo de serviços de freelancer e emprego regional (projeto de faculade em grupo).](https://github.com/Leandro-Cardoso/Emprego-Seguro) ⚙️🔨
+* **PROJETOS FUTUROS:**
 
-* Projetos futuros:
+  * Jogos:
 
-  * **Campo Minado** - v2.0 (Java e libGDX ou C++).
+    * **Campo Minado** - v2.0 (Java e libGDX ou C++).
+    * **Batalha Naval** - v2.0 (Java e libGDX ou C++).
+    * **Bomber Men** - v1.0 (C++, Versão diferenciada).
+    * **Escape from the Dark Labyrinth** - v1.0.
+    * **Green Valley** - RPG - v1.0 (C++).
+    * **Sem nome** - Jogo de casa mal assombrada - v1.0 (C# e Unity).
 
-  * **Batalha Naval** - v2.0 (Java e libGDX ou C++).
+* **IDÉIAS PARA PROJETOS:**
+
+  * Jogos:
+
+    * **Sudoku**
+    * **Caça-Palavras** (Word Hunter)
+    * **Snake**
+    * **Tetris**
+    * **Pong** (com mecanica de quebrar blocos)
+    * **Pacman**
+    * **Bomber Men**
+    * **Damas** (Checkers)
+    * **Xadrez** (Chess)
+  
+  * Ferramentas:
+
+    * **Dashboard**
+    * **Live wallpaper**

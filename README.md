@@ -25,68 +25,52 @@
 &nbsp;
 
 <div align="center">
-
   <h2>Status</h2>
-
 </div>
 
 * Engenheiro de Software (Estagiário)
 
 <div align="center">
-
   <h2>Projetos em Andamento</h2>
-
 </div>
 
 * **PROJETOS LONGOS:**
 
   * Bibliotecas:
-
     * [**Game Engine 2D** - v1.0 (Cpp) - Projeto para TCC da graduação em Engenharia de Software desenvolvido em formato de biblioteca.](https://github.com/Leandro-Cardoso/2d-game-engine/) ⚙️🔨
 
 * **PROJETOS CURTOS:**
 
   * Jogos:
-
     * [**Tic-Tac-Toe** - v2.0 (Java e libGDX).](https://github.com/Leandro-Cardoso/Tic-Tac-Toe-v2.0)  ⚙️🔨
-
   * Ferramentas:
-
     * [**ToDo** - v1.0 (C++).](https://github.com/Leandro-Cardoso/ToDo) ⚙️🔨
     * **Personal Manager** - v1.0 (C++). ⚙️🔨
-
   * Bibliotecas:
-
     * **LogLib** - Bibllioteca para criar logs - v1.0 (C++). ⚙️🔨
     * **WinLib** - Bibllioteca para criar janelas - v1.0 (C++). ⚙️🔨
-  
   * Web:
-  
     * [**Blog** (Java Spring Boot e PostgreSQL).](https://github.com/Leandro-Cardoso/dev.leandrocardoso.blog) ⚙️🔨
 
 <div align="center">
-
   <h2>Projetos Futuros</h2>
-
 </div>
 
 * Jogos:
-
   * **Campo Minado** - v2.0 (Java e libGDX ou C++).
   * **Batalha Naval** - v2.0 (Java e libGDX ou C++).
   * **Bomber Men** - v1.0 (C++) - Versão diferenciada seguir apenas a idéia.
   * **Escape from the Dark Labyrinth** - v1.0.
   * **Green Valley** - v1.0 (C++) - RPG.
   * **Sem nome** - v1.0 (C# e Unity) - Jogo de casa mal assombrada.
+* Ferramentas:
+  * **VPN** - v1.0 (C++).
 
 <div align="center">
-
   <h2>Idéias para Projetos</h2>
-
 </div>
 
 * Jogos:
-
   * **Sudoku**
   * **Caça-Palavras** (Word Hunter)
   * **Snake**
@@ -96,8 +80,6 @@
   * **Bomber Men**
   * **Damas** (Checkers)
   * **Xadrez** (Chess)
-
 * Ferramentas:
-
   * **Dashboard**
   * **Live wallpaper**

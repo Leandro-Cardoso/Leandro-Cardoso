@@ -41,6 +41,10 @@
 
 * **PROJETOS CURTOS:**
 
+  * Estudo:
+    * [C++](https://github.com/Leandro-Cardoso/Cpp-Core)
+    * Full Stack
+    * Probabilidade e Estatística
   * Jogos:
     * [**Tic-Tac-Toe** - v2.0 (Java e libGDX).](https://github.com/Leandro-Cardoso/Tic-Tac-Toe-v2.0)  ⚙️🔨
   * Ferramentas:

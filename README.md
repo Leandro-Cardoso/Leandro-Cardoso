@@ -44,7 +44,7 @@
   * Estudo:
     * [C++](https://github.com/Leandro-Cardoso/Cpp-Core)
     * Full Stack
-    * Probabilidade e Estatística
+    * [Probabilidade e Estatística](https://github.com/Leandro-Cardoso/Univassouras-Probabilidade-e-Estatistica)
   * Jogos:
     * [**Tic-Tac-Toe** - v2.0 (Java e libGDX).](https://github.com/Leandro-Cardoso/Tic-Tac-Toe-v2.0)  ⚙️🔨
   * Ferramentas:

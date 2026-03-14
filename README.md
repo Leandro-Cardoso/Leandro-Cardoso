@@ -37,24 +37,24 @@
 * **PROJETOS LONGOS:**
 
   * Bibliotecas:
-    * [**Game Engine 2D** - v1.0 (Cpp) - Projeto para TCC da graduação em Engenharia de Software desenvolvido em formato de biblioteca.](https://github.com/Leandro-Cardoso/2d-game-engine/) ⚙️🔨
+    * [**Game Engine 2D** - v1.0 (Cpp) - Projeto para TCC da graduação em Engenharia de Software desenvolvido em formato de biblioteca.](https://github.com/Leandro-Cardoso/2d-game-engine/)
 
 * **PROJETOS CURTOS:**
 
   * Estudo:
     * [C++](https://github.com/Leandro-Cardoso/Cpp-Core)
-    * Full Stack
+    * [Full Stack - (TaskFLow)](https://github.com/Leandro-Cardoso/TaskFlow)
     * [Probabilidade e Estatística](https://github.com/Leandro-Cardoso/Univassouras-Probabilidade-e-Estatistica)
   * Jogos:
-    * [**Tic-Tac-Toe** - v2.0 (Java e libGDX).](https://github.com/Leandro-Cardoso/Tic-Tac-Toe-v2.0)  ⚙️🔨
+    * [**Tic-Tac-Toe** - v2.0 (Java e libGDX).](https://github.com/Leandro-Cardoso/Tic-Tac-Toe-v2.0)
   * Ferramentas:
-    * [**ToDo** - v1.0 (C++).](https://github.com/Leandro-Cardoso/ToDo) ⚙️🔨
-    * **Personal Manager** - v1.0 (C++). ⚙️🔨
+    * [**ToDo** - v1.0 (C++).](https://github.com/Leandro-Cardoso/ToDo)
+    * **Personal Manager** - v1.0 (C++).
   * Bibliotecas:
-    * **LogLib** - Bibllioteca para criar logs - v1.0 (C++). ⚙️🔨
-    * **WinLib** - Bibllioteca para criar janelas - v1.0 (C++). ⚙️🔨
+    * **LogLib** - Bibllioteca para criar logs - v1.0 (C++).
+    * **WinLib** - Bibllioteca para criar janelas - v1.0 (C++).
   * Web:
-    * [**Blog** (Java Spring Boot e PostgreSQL).](https://github.com/Leandro-Cardoso/dev.leandrocardoso.blog) ⚙️🔨
+    * [**Blog** (Java Spring Boot e PostgreSQL).](https://github.com/Leandro-Cardoso/dev.leandrocardoso.blog)
 
 <div align="center">
   <h2>Projetos Futuros</h2>

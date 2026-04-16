@@ -51,7 +51,7 @@
     * [**ToDo** - v1.0 (C++).](https://github.com/Leandro-Cardoso/ToDo)
     * **Personal Manager** - v1.0 (C++).
   * Bibliotecas:
-    * **LogLib** - Bibllioteca para criar logs - v1.0 (C++).
+    * [**LogLib** - Bibllioteca para criar logs - v1.0 (C++).](https://github.com/Leandro-Cardoso/logger)
     * **WinLib** - Bibllioteca para criar janelas - v1.0 (C++).
   * Web:
     * [**Blog** (Java Spring Boot e PostgreSQL).](https://github.com/Leandro-Cardoso/dev.leandrocardoso.blog)

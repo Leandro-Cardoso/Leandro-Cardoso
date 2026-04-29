@@ -51,7 +51,8 @@
     * [**ToDo** - v1.0 (C++).](https://github.com/Leandro-Cardoso/ToDo)
     * **Personal Manager** - v1.0 (C++).
   * Bibliotecas:
-    * [**LogLib** - Bibllioteca para criar logs - v1.0 (C++).](https://github.com/Leandro-Cardoso/logger)
+    * [**Logger** - Bibllioteca para criar logs - v1.0 (C++).](https://github.com/Leandro-Cardoso/logger)
+    * [**BRDoc** - Bibllioteca para criar e validar documentos como CPF, CNPJ e RG - v1.0 (C++).](https://github.com/Leandro-Cardoso/BRDoc)
     * **WinLib** - Bibllioteca para criar janelas - v1.0 (C++).
   * Web:
     * [**Blog** (Java Spring Boot e PostgreSQL).](https://github.com/Leandro-Cardoso/dev.leandrocardoso.blog)
@@ -87,3 +88,5 @@
 * Ferramentas:
   * **Dashboard**
   * **Live wallpaper**
+  * **Terminal**
+  * **Shell**

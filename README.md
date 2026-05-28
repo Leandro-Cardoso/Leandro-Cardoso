@@ -38,6 +38,11 @@
 
   * Bibliotecas:
     * [**Game Engine 2D** - v1.0 (Cpp) - Projeto para TCC da graduação em Engenharia de Software desenvolvido em formato de biblioteca.](https://github.com/Leandro-Cardoso/2d-game-engine/)
+  * API:
+    * API de integracão com o Sienge (PRIVADO).
+  * Web:
+    * App de analise de dados e dashboard para diversos setores empresariais (PRIVADO).
+    * Ferramenta de automacão de relatórios gerenciais, geracão de planilhas, documentos e PDFs (PRIVADO).
 
 * **PROJETOS CURTOS:**
 
